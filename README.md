@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Mechanical engineer ⚙️ coding optimization tools :laptop:
+
+
 <!--
 **andreshaq/andreshaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
