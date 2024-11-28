@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mechanical engineer ⚙️
+Mechanical engineer ⚙️ ...
 Coding optimization tools 💻
 
 
