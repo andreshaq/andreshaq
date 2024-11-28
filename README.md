@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Mechanical engineer ⚙️ ...
-Coding optimization tools 💻
+# Mechanical engineer ⚙️
+# Coding optimization tools 💻
 
 
 <!--
