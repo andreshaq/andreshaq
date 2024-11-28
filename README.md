@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mechanical engineer ⚙️ coding optimization tools :laptop:
+Mechanical engineer ⚙️ coding optimization tools :laptop:U+1F4BB
 
 
 <!--
